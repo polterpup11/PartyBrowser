@@ -1,0 +1,9 @@
+C:\Users\koolm\Documents\Visual Studio 2010\Projects\PartyBrowser\PartyBrowser\bin\Debug\PartyBrowser.exe
+C:\Users\koolm\Documents\Visual Studio 2010\Projects\PartyBrowser\PartyBrowser\bin\Debug\PartyBrowser.pdb
+C:\Users\koolm\Documents\Visual Studio 2010\Projects\PartyBrowser\PartyBrowser\bin\Debug\PartyBrowser.xml
+C:\Users\koolm\Documents\Visual Studio 2010\Projects\PartyBrowser\PartyBrowser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\koolm\Documents\Visual Studio 2010\Projects\PartyBrowser\PartyBrowser\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\koolm\Documents\Visual Studio 2010\Projects\PartyBrowser\PartyBrowser\obj\x86\Debug\PartyBrowser.vbproj.GenerateResource.Cache
+C:\Users\koolm\Documents\Visual Studio 2010\Projects\PartyBrowser\PartyBrowser\obj\x86\Debug\PartyBrowser.exe
+C:\Users\koolm\Documents\Visual Studio 2010\Projects\PartyBrowser\PartyBrowser\obj\x86\Debug\PartyBrowser.xml
+C:\Users\koolm\Documents\Visual Studio 2010\Projects\PartyBrowser\PartyBrowser\obj\x86\Debug\PartyBrowser.pdb
