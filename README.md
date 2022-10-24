@@ -1,0 +1,2 @@
+# PartyBrowser
+A simple browser
